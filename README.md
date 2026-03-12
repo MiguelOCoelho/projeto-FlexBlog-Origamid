@@ -25,7 +25,6 @@ Acesse diretamente: https://miguelocoelho.github.io/projeto-FlexBlog-Origamid/
 ✅ Layout Flexbox funcionando ao vivo!
 ✅ Responsivo testado mobile/desktop
 ✅ Sem instalação necessária
-✅ Perfeito para recrutadores
 ```
 
 ### **Localmente**
